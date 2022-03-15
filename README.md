@@ -1,1 +1,1 @@
-https://discords.com/bio/p/viben
+[profile](https://discords.com/bio/p/viben)
