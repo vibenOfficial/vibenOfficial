@@ -1,1 +1,5 @@
-[profile](https://discords.com/bio/p/viben)
+```js
+npm install more-vibe
+```
+
+<a href="https://github.com/vibenOfficial" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/932739520451977248.png"/></a>
